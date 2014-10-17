@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[mny:home|Door43 (mny)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-mny|d43-mny repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-mny/archive/master.zip|d43-mny.zip]]
+
+**Recent Changes**
+{{changes>ns = mny}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/mny|Ethnologue data]]
+
